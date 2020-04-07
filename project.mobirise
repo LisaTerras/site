@@ -28,13 +28,14 @@
     },
     "versionFirst": "3.12",
     "uniqCompNum": 40,
-    "versionPublish": "4.10.3",
+    "versionPublish": "4.12.3",
     "favicon": "@PROJECT_PATH@/assets/images/liquid-red-and-green-128x91.png",
     "noImageResize": "",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "imageResize": true
   },
   "pages": {
     "cv.html": {

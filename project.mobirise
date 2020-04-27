@@ -371,7 +371,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "lisaterras.be",
         "meta_descr": "©LisaTerras 2020",
         "header_custom": "",
         "footer_custom": "",

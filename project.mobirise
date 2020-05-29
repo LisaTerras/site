@@ -27,15 +27,21 @@
       ]
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 40,
+    "uniqCompNum": 44,
     "versionPublish": "4.12.3",
-    "favicon": "@PROJECT_PATH@/assets/images/liquid-red-and-green-128x91.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "cv.html": {
@@ -167,7 +173,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p><b>EDUCATION\n</b></p><p>\n</p><p><b><br></b></p><p><b>2016-2018</b>&nbsp;&nbsp;&nbsp;&nbsp;      MA / Fine Arts, LUCA School of Arts, Ghent, BE\n</p><p><b>2013-2017</b> &nbsp;&nbsp;&nbsp;&nbsp;     BA / Visual Arts, LUCA School of Arts, Ghent, BE\n</p><p>\n</p><p>\n</p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">EXPERIENCE</b><br></p><p>\n</p><p><b><br></b></p><p><b>2019</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tatjana Pieters Gallery, Ghent, BE / (Internship) Gallery-Assistant \n</p><p><b>2015</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SMAK, Ghent, BE / (Set-Up) Drawing The Bottom Line\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SMAK, Ghent, BE / (Set-up) Sol LeWitt - Walldrawing n°36\n</p><p>\n</p><p>\n</p><p><br></p><p><b>EXHIBITIONS\n</b></p><p>\n</p><p><br></p><p><b>2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Caermersklooster, Ghent, BE / (Private) Yellow is in Between \n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Kolder, Ghent, BE / (Group) An Untitled Exhibition\n</p><p>\n</p><p><br></p><p><b>2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b>        KMMN, Kassel, DE / (Group) Get Out of the Paté\n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LUCA School of Arts, Ghent, BE / (Publication) Posture Editions 24  \n</p><p>\n</p><p><br></p><p><b>2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b>         Campo Victoria, Ghent , BE / (Group) Mayday Mayday 2016\n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pianofabriek, Brussels, BE /(Group) Backdrop\n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vooruit, Ghent, BE / (Group) A Choir of Wires - LUCA MS20 Orchestra/Felix Kubin \n</p><p>\n</p><p><br></p><p><b>2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Concertgebouw, Bruges, BE / (Group) Acousmonium, Auditive Spaces and Spatial Music\n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Campo Victoria, Ghent , BE / (Group) Mayday Mayday 2015                  \n</p><p>\n</p><p><br></p><p><b>2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Concertgebouw, Bruges, BE / (Group) Slow (36h) : Drones - Cadavre Exquis&nbsp;</p>",
+          "text": "<p><b>EDUCATION\n</b></p><p>\n</p><p><b><br></b></p><p><b>2016-2018</b>&nbsp;&nbsp;&nbsp;&nbsp;      MA / Fine Arts, LUCA School of Arts, Ghent, BE\n</p><p><b>2013-2017</b> &nbsp;&nbsp;&nbsp;&nbsp;     BA / Visual Arts, LUCA School of Arts, Ghent, BE\n</p><p>\n</p><p>\n</p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">EXPERIENCE</b><br></p><p>\n</p><p><b><br></b></p><p><b>2019</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tatjana Pieters Gallery, Ghent, BE / (Internship) Gallery-Assistant \n</p><p><b>2015</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SMAK, Ghent, BE / (Set-Up) Drawing The Bottom Line\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SMAK, Ghent, BE / (Set-up) Sol LeWitt - Walldrawing n°36\n</p><p>\n</p><p>\n</p><p><br></p><p><b>EXHIBITIONS\n</b></p><p>\n</p><p><br></p><p><b>2018 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>&nbsp;Kunsthal, Ghent, BE / (Private) Yellow is in Between \n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Kolder, Ghent, BE / (Group) An Untitled Exhibition\n</p><p>\n</p><p><br></p><p><b>2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b>        KMMN, Kassel, DE / (Group) Get Out of the Paté\n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; deSingel, Antwerp, BE / (Publication) Posture Editions 24, with support of LUCA School of Arts &amp; KU Leuven: Architecture</p><p>\n</p><p><br></p><p><b>2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b>         Campo Victoria, Ghent , BE / (Group) Mayday Mayday 2016\n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pianofabriek, Brussels, BE / (Group) Backdrop\n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vooruit, Ghent, BE / (Group) A Choir of Wires - LUCA MS20 Orchestra/Felix Kubin \n</p><p>\n</p><p><br></p><p><b>2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Concertgebouw, Bruges, BE / (Group) Acousmonium, Auditive Spaces and Spatial Music\n</p><p>\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Campo Victoria, Ghent , BE / (Group) Mayday Mayday 2015                  \n</p><p>\n</p><p><br></p><p><b>2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Concertgebouw, Bruges, BE / (Group) Slow (36h) : Drones - Cadavre Exquis&nbsp;</p>",
           "_tags": [
             "Thema"
           ],
@@ -581,7 +587,7 @@
             }
           },
           "title": "Yellow is in Between",
-          "text": "2018 - 2020<br>Collection of works<br>&nbsp;- Liquid Red and Green: Melted hand rolled glass<br>&nbsp;- Yellow is in Between (installation): Ytong bricks, fluorescent lamps with red and green filters, cables<br>",
+          "text": "2018<br>Collection of works<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thema"
@@ -607,7 +613,7 @@
             "paddingBottom": "0",
             "filterBgColor": false,
             "bgColor": "fff",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -615,45 +621,83 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/liquid-red-and-green-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/liquid-red-and-green-1-800x577.jpg",
+                "image": "@PROJECT_PATH@/assets/images/liquid-red-and-green-i-wweb-1870x1240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/liquid-red-and-green-i-wweb-1870x1240-800x530.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Liquid Red and Green I, 2018\n<br>molten hand rolled glass<br>7 x 9,5 cm",
-                "active": true
+                "caption": "Liquid Colors I, 2018\n<br>molten hand rolled glass<br>",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/postkaart-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/postkaart-2-800x569.jpg",
+                "image": "@PROJECT_PATH@/assets/images/toi-et-moi-jute-web-2000x1327.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/toi-et-moi-jute-web-2000x1327-800x531.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Liquid Red and Green II, 2018<br>molten hand rolled glass,<br>7 x 13,5 cm"
+                "caption": "Toi et Moi, 2018<br>Hand crocheted red and green jute",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/nous-jute-web-2000x1323.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nous-jute-web-2000x1323-800x529.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Nous, 2018<br>Hand crocheted red and green jute<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/yiib7-2018-1529x1019.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yiib7-2018-1529x1019-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/yiib4-2018-1518x1020.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yiib4-2018-1518x1020-800x538.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/yiib3-2018-1529x1015.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yiib3-2018-1529x1015-800x531.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/yiib2-2018.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/yiib2-2018-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yiib2-2018-1529x1016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yiib2-2018-1529x1016-800x532.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>Installation at Kunsthal, Ghent, BE"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/yiib7-2018.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/yiib7-2018-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>Installation at Kunsthal, Ghent, BE",
+                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>",
                 "active": false
               },
               {
@@ -661,47 +705,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/yiib4-2018.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/yiib4-2018-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yiib8.2-2018-1528x1017.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yiib8.2-2018-1528x1017-800x532.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>Installation at Kunsthal (night-time), Ghent, BE",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/yiib3-2018.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/yiib3-2018-800x534.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>Installation at Kunsthal, Ghent, BE",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/yiib1-2018.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/yiib1-2018-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>Installation at Kunsthal, Ghent, BE",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/yiib8.2-2018.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/yiib8.2-2018-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>Installation at Kunsthal (night-time), Ghent, BE",
+                "caption": "Yellow is in Between, 2018<br>Ytong bricks, fluorescent lamps with red and green filters<br>",
                 "active": false
               }
             ]
@@ -759,7 +767,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/red-bricks-2017-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/red-bricks-2018-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "Untitled"
@@ -776,8 +784,8 @@
               "size": 250
             }
           },
-          "title": "Untitled",
-          "text": "2017<br>3 slices of red brick, 4 nails<br>",
+          "title": "Red Bricks",
+          "text": "2017<br>3 slices of red bricks, 4 nails<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thema"
@@ -818,7 +826,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/de-grootste-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/de-grootste-3-2017-1400x987.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -870,8 +878,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/de-grootste-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/de-grootste-1-800x564.jpg",
+                "image": "@PROJECT_PATH@/assets/images/de-grootste-4-2017-1587x1119.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/de-grootste-4-2017-1587x1119-800x564.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Ik wil de Grootste hebben, 2017 \n<br>video, 5'46\"",
@@ -894,8 +902,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/de-grootste-4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/de-grootste-4-800x564.jpg",
+                "image": "@PROJECT_PATH@/assets/images/de-grootste-1-2017-1587x1119.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/de-grootste-1-2017-1587x1119-800x564.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Ik wil de Grootste hebben, 2017\n<br>video,&nbsp;5'46\"",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/de-grootste-5-2017-test-1587x1119.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/de-grootste-5-2017-test-1587x1119-800x564.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Ik wil de Grootste hebben, 2017\n<br>video,&nbsp;5'46\"",
@@ -918,6 +938,65 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": false,
+            "imageSize": "64",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitledflag-1-1400x987.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Untitled",
+          "text": "2016<br>Digital print on flag fabric",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-15",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": false,
             "imageSize": "52",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
@@ -936,7 +1015,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/aphrodite-6.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aphrodite-3-2015-web-1400x788.jpg",
               "link": "",
               "alt": "",
               "title": ""
